@@ -64,6 +64,10 @@ Since the previous owner’s IP was unknown and undiscoverable via `nmap` or pac
 
 ---
 
+![IP_config](Screenshot2025-07-07140929.png)
+
+---
+
 ## 📦 Homelab Integration
 This switch now serves as my **PoE+ Power House**, supporting:
 * **Wireless Access Points:** Powering TP-Link Omada gear.
