@@ -64,7 +64,7 @@ Since the previous owner’s IP was unknown and undiscoverable via `nmap` or pac
 
 ---
 
-![IP_config](Screenshot2025-07-07140929.png)
+![IP Config](Screenshot%202025-07-07%20140929.png)
 
 ---
 
