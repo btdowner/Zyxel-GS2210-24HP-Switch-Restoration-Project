@@ -78,20 +78,17 @@ This switch now serves as my **PoE+ Power House**, supporting:
 ## 🔗 LinkedIn
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/brandonthomasdowner)
 
-@import "{{ site.theme }}";
+<style>
+  /* Target the specific Midnight layout tags */
+  .wrapper, section, header {
+    max-width: 95% !important;
+    width: 95% !important;
+    margin: 0 auto !important;
+  }
 
-/* Target the specific Midnight layout tags */
-.wrapper, section, header {
-  max-width: 95% !important;
-  width: 95% !important;
-  margin: 0 auto !important;
-}
-
-section {
-  padding: 20px 0 !important;
-}
-
-pre, .highlight {
-  width: 100% !important;
+  /* Remove the padding that creates 'fake' empty space */
+  section {
+    padding: 20px 0 !important;
+  }
   box-sizing: border-box !important;
 }
