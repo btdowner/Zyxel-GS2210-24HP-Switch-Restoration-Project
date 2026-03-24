@@ -24,7 +24,7 @@ Through **serial console recovery** and a **custom silent fan modification**, I 
 
 ---
 
-![Zyxel GS2210-24HP Hardware](20250705_153226.jpg)
+![Zyxel GS2210-24HP Hardware](images/20250705_153226.jpg)
 
 ---
 
@@ -41,8 +41,8 @@ The Noctua fans required a custom pinout modification to match the Zyxel proprie
 > By re-ordering the pins manually, I avoided cutting or soldering, maintaining a clean, professional internal build.
 
 <p align="center">
-  <img src="20250705_154652.jpg" width="48%" alt="Internal Fan Wiring" />
-  <img src="20250705_154847 (1).jpg" width="48%" alt="Finished Hardware Assembly" />
+  <img src="images/20250705_154652.jpg" width="48%" alt="Internal Fan Wiring" />
+  <img src="images/20250705_154847 (1).jpg" width="48%" alt="Finished Hardware Assembly" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ Since the previous owner’s IP was unknown and undiscoverable via `nmap` or pac
 
 ---
 
-![IP Config](Screenshot%202025-07-07%20140929.png)
+![IP Config](images/Screenshot%202025-07-07%20140929.png)
 
 ---
 
